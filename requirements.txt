@@ -1,0 +1,17 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+openpyxl
+xlsxwriter
+joblib
+tensorflow
+scikeras
+xgboost
+catboost
+lightgbm
+shap
+sympy
+pysr
